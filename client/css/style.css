@@ -1,0 +1,65 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 1rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+}
+
+.URL-input, .download-button {
+    border-radius: 4px;
+    font-size: 1.25rem;
+    padding: 5px 10px;
+}
+
+.URL-input {
+    background: #eee;
+    border: 2px solid #ddd;
+    margin-bottom: 1rem;
+    outline: none;
+    text-align: left;
+    width: 600px;
+}
+
+.URL-input:focus {
+    border: 2px solid #ff5858;
+}
+
+.download-button {
+    background-color: #ff0000;
+    border: 2px solid #ff0000;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+}
+
+.download-button:hover, .download-button:focus {
+    background-color: #ff5858;
+    border: 2px solid #ff5858;
+}
+
+@media (max-width: 992px) {
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .URL-input {
+        width: 80%;
+    }
+}
