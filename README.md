@@ -13,4 +13,5 @@ $ node index.js
 ```
 
 **Client:**
-Open client/index.html with your browser
+
+> Open client/index.html with your browser
