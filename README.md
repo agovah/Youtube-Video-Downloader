@@ -4,6 +4,10 @@ YouTube Video Downloader built with JavaScript (client side) and Node.js (server
 
 ```
 $ https://github.com/agovah/Youtube-Video-Downloader.git
-$ cd React-Weather-master
-$ npm install
-$ npm start
+$
+$ Server:
+$ cd Youtube-Video-Downloader-master/server
+$ node index.js
+$
+$ Client:
+$ Open client/index.html with your browser
