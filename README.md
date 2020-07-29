@@ -1,4 +1,4 @@
-YouTube Video Downloader built with JavaScript (client side) and Node.js (server side).
+YouTube video downloader built with JavaScript and Node.js.
 
 ## Usage
 
