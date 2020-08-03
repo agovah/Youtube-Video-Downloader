@@ -2,7 +2,7 @@ YouTube video downloader built with JavaScript and Node.js.
 
 ## Demo
 
-![Demo](https://raw.githubusercontent.com/agovah/Youtube-Video-Downloader/master/demo.png)
+![Demo](https://raw.githubusercontent.com/agovah/Youtube-Video-Downloader/master/demo.jpg)
 
 ## Usage
 
